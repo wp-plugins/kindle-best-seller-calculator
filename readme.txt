@@ -22,3 +22,6 @@ Stable tag: 1.0
 
 A super light widget, which you can place anywhere on your wordpress website. The widget allows your users to calculate their Kindle Best Seller Rank. All you need to do is place this short code ==> [kindle-rank-calculator] <== where you want to show the widget.
 
+== Screenshots ==
+
+1. Widget in action
