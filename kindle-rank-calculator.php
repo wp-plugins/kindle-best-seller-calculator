@@ -2,7 +2,7 @@
 
 /* Plugin Name: Kindle Rank Calculator
 Plugin URI: https://pk.linkedin.com/in/farhansaeed17
-Description: Just copy and paste this shortcode => [kindle-rank-calculator] <= where you want to diplay the calculator. Super easy eh?
+Description: Adds a Kindle KDP calculator to your website that will help users convert Kindle Best Seller Rank into ebooks sold per day.
 Version: 1.0
 Author: Farhan Saeed
 Author URI: https://pk.linkedin.com/in/farhansaeed17
@@ -108,8 +108,7 @@ if(x>=501 && x<=750 ){
 
 }
 if(x>=751 && x<=1500 ){
-var books = ((120-100)/(1500-750))*(1500-x) + 100;
-alert(books);
+var books = ((120-100)/(1500-750))*(1500-x) + 100;
 }
 if(x>=1501 && x<=3000 ){
 books = ((100-70)/(3000-1500))*(3000-x) + 70;
