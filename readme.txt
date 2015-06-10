@@ -20,7 +20,7 @@ Stable tag: 1.0
 
 == Description ==
 
-Amazon KDP is pretty cryptic.  The only way you can tell how well someone else’s Kindle ebook is doing is by checking out that ebook’s Best Seller Rank.  
+Amazon KDP is pretty cryptic.  The only way you can tell how well someone else's Kindle ebook is doing is by checking out that ebook’s Best Seller Rank.  
 
 <h4>But what does that mean?</h4>
 
