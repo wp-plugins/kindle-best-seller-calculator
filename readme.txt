@@ -65,6 +65,7 @@ So, add this incredible tool today and start improving yours and your reader's K
 3. Take the code [kindle-rank-calculator] and place it on any page or post. 
 
 If you want to place the plugin on a sidebar:
+
 4. Inside your wordpress dashboard go to >Appearance>Widgets
 5. Drag a "Text" widget to your side bar.
 6. Inside the "Text" widget, add the words: "[kindle-rank-calculator]"
