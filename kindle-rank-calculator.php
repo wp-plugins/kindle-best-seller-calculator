@@ -21,19 +21,12 @@ function display()
     margin-bottom: 29px;
 " id = "top">
 <a target="_blank" style="border-bottom: none;" href="http://kindlepreneur.com/"><?php
-echo '<img class="alignnone size-medium wp-image-7" src="' . plugins_url( '/images/crown.PNG', __FILE__ ) . '" > ';
-?></a>  <h3 style = "display: inline;
-  color: #F48220;
-  font-family: Maven Pro; font-size:2vw;">Kindle Best Seller</h3><div style="  padding-left: 52px;
-    margin-top: -21px;
-"> <h3 style = "text-align:center;display: inline;
-  color: #204A83;
-  font-family: Maven Pro; font-size: 28px;">Calculator</h3>
-</div>
+echo '<img class="alignnone size-medium wp-image-7" src="' . plugins_url( '/images/plugin-single.jpg', __FILE__ ) . '" > ';
+?></a>  
 <h4 id = "discover" style = " color: #204A83;font-family: Maven Pro; font-size: 16px; line-height: 110%; padding-top: 16px;   margin-bottom: -13px;">Discover how many books an author is selling by entering their kindle best seller rank:</h4>
 </div>
 <div id="change"> 
-<input style="font-size: 15px;" id="rank-input" onkeypress='return event.charCode >= 48 && event.charCode <= 57' name="input" type="text" value="" size="30" aria-required="true" placeholder="Enter the Kindle Best Seller Rank Here" required="required">
+<input style="font-size: 15px; width:100%;" id="rank-input" onkeypress='return event.charCode >= 48 && event.charCode <= 57' name="input" type="text" value="" size="30" aria-required="true" placeholder="Enter the Kindle Best Seller Rank Here" required="required">
 <style>input[type="button"]:hover{
 background-color:#F48220 !important;
 }</style>
