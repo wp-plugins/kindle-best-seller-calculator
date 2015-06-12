@@ -23,7 +23,7 @@ function display()
 <a target="_blank" style="border-bottom: none;" href="http://kindlepreneur.com/"><?php
 echo '<img class="alignnone size-medium wp-image-7" src="' . plugins_url( '/images/plugin-single.jpg', __FILE__ ) . '" > ';
 ?></a>  
-<h4 id = "discover" style = " color: #204A83;font-family: Maven Pro; font-size: 16px; line-height: 110%; padding-top: 16px; font-weight:700;  margin-bottom: -13px;">Discover how many books an author is selling by entering their kindle best seller rank:</h4>
+<h4 id = "discover" style = " color: #204A83;font-family: Maven Pro; font-size: 16px; line-height: 110% !important; padding-top: 16px; font-weight:700;  margin-bottom: -13px;">Discover how many books an author is selling by entering their kindle best seller rank:</h4>
 </div>
 <div id="change"> 
 <input style="font-size: 15px; width:100%;" id="rank-input" onkeypress='return event.charCode >= 48 && event.charCode <= 57' name="input" type="text" value="" size="30" aria-required="true" placeholder="Enter the Kindle Best Seller Rank Here" required="required">
