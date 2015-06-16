@@ -71,3 +71,10 @@ If you want to place the plugin on a sidebar:
 6. Inside the "Text" widget, add the words: "[kindle-rank-calculator]"
 7. Click "Save"
 
+== Screenshots ==
+
+1. The Kindle Best Seller Calculator as it looks on your side bar:
+2. Once you place the Best Seller Rank and click “Click Here,”  the Kindle Best Seller Calculator will calculate the “Sales Per Day” for that particular book.
+3. To place this on a sidebar, you need to drop and drop a Text widget into the sidebar and then add the shortcode [Kindle-rank-calculator] to it.  
+4. What’s even cooler is that our shortcode [Kindle-rank-calculator] works on pages and not just on sidebars.  So create your own page specific calculation…which is nice. If you don’t have a website, you can go ahead and access mine at http://kindlepreneur.com/amazon-kdp-sales-rank-calculator/ 
+
