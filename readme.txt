@@ -34,13 +34,13 @@ Basically, when they want to know how much money someone is making with their ki
 
 <h4>Don't Have a Website?</h4>
 
-No problem, we have you covered.  Just head over to our <a href=”http:// kindlepreneur.com/Amazon-KDP-Sales-Rank-Calculator”>KDP Calculator</a> page and use our tool there. 
+No problem, we have you covered.  Just head over to our <a href="http:// kindlepreneur.com/Amazon-KDP-Sales-Rank-Calculator">KDP Calculator</a> page and use our tool there. 
 
 <blockquote>
 <p>
 <strong>Strong Support</strong>
 <br>
-If you have any problem with this plugin or any other Kindlepreneur plugin, contact us on our <a href=”http://Kindlepreneur.com/contact-us”>Contact Us</a> page and we will get right with you and taking care of the problem. 
+If you have any problem with this plugin or any other Kindlepreneur plugin, contact us on our <a href="http://Kindlepreneur.com/contact-us">Contact Us</a> page and we will get right with you and taking care of the problem. 
 </blockquote>
 
 <h4>Different Uses for this Calculator</h4>
