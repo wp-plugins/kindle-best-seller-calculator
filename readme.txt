@@ -34,7 +34,7 @@ Basically, when they want to know how much money someone is making with their ki
 
 <h4>Don't Have a Website?</h4>
 
-No problem, we have you covered.  Just head over to our <a href="http:// kindlepreneur.com/Amazon-KDP-Sales-Rank-Calculator">KDP Calculator</a> page and use our tool there. 
+No problem, we have you covered.  Just head over to our <a href="http://kindlepreneur.com/Amazon-KDP-Sales-Rank-Calculator">KDP Calculator</a> page and use our tool there. 
 
 <blockquote>
 <p>
